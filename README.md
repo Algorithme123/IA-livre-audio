@@ -18,7 +18,7 @@ Cette IA est conçue pour lire le contenu de livres au format PDF en utilisant l
 
 ## Utilisation
 
-1. Placez vos livres au format PDF dans le dossier `books`.
+1. Placez vos livres au format PDF dans le dossier `livres`.
 2. Exécutez le fichier `main.py` pour lancer l'IA :
    ```
    python main.py
